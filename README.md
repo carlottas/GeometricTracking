@@ -11,7 +11,7 @@ All the default values and the ros name  are defined in the cpp file itself.
 
 * **Variable name**:  inputName
 
-** Example**
+**Example**
 
 * **Name**: ForgetThreshold
 
